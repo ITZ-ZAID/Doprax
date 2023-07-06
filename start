@@ -1,2 +1,2 @@
 git clone https://github.com/ITS-ZAID/YukkiMusicBot-2 ok && cd ok && pip3 install -U -r requirements.txt
-bash start
+python3 app.py & bash start
